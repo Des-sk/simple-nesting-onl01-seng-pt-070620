@@ -42,6 +42,8 @@ def alan_kay_is_known_for
      programmer_hash[:alan_kay]
 end
 
+
+
 def dennis_ritchies_language
 	programmer_hash = 
  		{
