@@ -88,7 +88,7 @@ def adding_matz
         }
      }
 
-    programmer_hash [:grace_hopper]<< 
+    programmer_hash [:grace_hopper]<< :yukihiro_matsumoto => :known_for => "Rub:languages => ["LISP", "C"]
 end
 
 def changing_alan
